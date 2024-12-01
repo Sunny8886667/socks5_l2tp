@@ -1,0 +1,2 @@
+socks5转为l2tp服务器，适用于不支持socks5的软路由
+更多讨论请联系我Telegram:@Bill_999
